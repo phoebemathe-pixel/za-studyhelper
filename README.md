@@ -28,3 +28,5 @@ git clone https://github.com/phoebemathe-pixel/za-studyhelper.git
 cd za-studyhelper
 pip install -r requirements.txt
 streamlit run app.py
+
+No Wifi? Download → Double-click run.bat
